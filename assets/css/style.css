@@ -312,7 +312,7 @@ IMG.displayed {
   margin-right: auto }
 .r2 {
   line-height: 2em;
-
+  list-style-type: none;
 }
 .centrer_texte {
   text-align:center;
